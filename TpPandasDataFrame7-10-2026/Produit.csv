@@ -1,0 +1,12 @@
+Produit,Catégorie,Vendeur,Quantité,Prix_Unitaire,Ville
+Laptop,Électronique,Ali,3,7500,Fès
+Casque,Électronique,Sara,5,400,Rabat
+Tablette,Électronique,Omar,2,3500,Fès
+Chemise,Vêtements,Laila,7,250,Tanger
+Pantalon,Vêtements,Youssef,4,300,Marrakech
+Livre,Livres,Hassan,10,120,Rabat
+Crème,Beauté,Sara,6,90,Fès
+Parfum,Beauté,Laila,3,400,Marrakech
+Jeans,Vêtements,Omar,5,350,Tanger
+Stylo,Livres,Ali,12,25,Fès
+

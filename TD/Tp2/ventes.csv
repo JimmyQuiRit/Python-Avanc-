@@ -1,0 +1,101 @@
+Date,Produit,Ville,Prix,Quantite,Remise,ModePaiement
+2026-06-03,Casque,Rabat,378.02,7,0.1,Chèque
+2026-09-02,Imprimante, marrakech,1727.22,7,0.1,Carte
+2026-10-06,Casque,Fès,423.15,4,0,Espèces
+2026-06-15,Disque SSD,Casablanca,823.7,,0,Espèces
+2026-05-22,Disque SSD,Rabat,813.15,1,0.05,Chèque
+2026-01-25,DISQUE SSD ,Fès,840.45,1,0.05,Virement
+2026-06-13,Imprimante,Marrakech,1627.29,4,0.15,Espèces
+2026-03-27,Tablette,Rabat,3737.71,,0,Virement
+2026-08-19,Disque SSD,Fès,888.86,6,0.1,Chèque
+2026-11-10,Souris,Rabat,168.27,2,0.05,Virement
+2026-08-10,Souris,Rabat,184.72,6,0.1,Virement
+2026-02-21,Smartphone, marrakech,5332.16,5,0.15,
+2026-03-01,Souris,Casablanca,187.14,2,0,Virement
+2026-09-19,Smartphone,Fès,5406.32,1,0,Chèque
+2026-11-10,Souris,Rabat,168.27,2,0.05,Virement
+2026-08-31,Écran, casablanca,2078.32,5,0.15,Chèque
+2026-05-06,Clavier,Rabat,312.51,7,0.15,Espèces
+2026-03-16,Smartphone,Casablanca,4979.1,6,0.05,Carte
+2026-02-01,Smartphone,Casablanca,4795.77,3,0.05,Carte
+2026-05-23,Souris,Fès,,3,0.1,Chèque
+2026-02-01,Smartphone,Casablanca,4795.77,3,0.05,Carte
+2026-01-06,Casque,MARRAKECH ,375.14,7,0,Chèque
+2026-01-30,Imprimante,Rabat,1535.95,2,0.1,Carte
+2026-12-19,Smartphone,Rabat,4823.2,2,0,Espèces
+2026-10-25,Disque SSD,Casablanca,900.11,8,0,Carte
+2026-11-23,Souris,Marrakech,190.97,8,0,
+2026-03-11,Smartphone,Casablanca,5063.66,7,0,Chèque
+2026-03-05,Disque SSD,Fès,908.72,2,0,Virement
+2026-05-17,Webcam,Tanger,486.0,8,0,
+2026-11-03,Casque,Fès,376.93,2,0.15,Carte
+2026-09-20,Casque,Marrakech,381.48,6,0,Virement
+2026-02-28,Disque SSD,Tanger,870.07,1,0.1,Chèque
+2026-07-09,Souris,Rabat,173.17,7,0.15,Chèque
+2026-08-07,Smartphone, tanger,5265.66,1,0.15,Carte
+2026-03-22,Tablette,Casablanca,3615.17,1,0,Carte
+2026-12-14,Casque,Tanger,391.35,6,0.05,Espèces
+2026-12-16,Disque SSD,Rabat,897.78,2,0.15,Carte
+2026-09-06,Imprimante,tanger ,1703.64,1,0.15,Chèque
+2026-03-24,Souris,Marrakech,168.66,,0.15,Espèces
+2026-06-13,Imprimante,Marrakech,1627.29,4,0.15,Espèces
+2026-11-21,Laptop,Rabat,7931.53,2,0,Virement
+2026-07-09,Clavier,Rabat,325.07,8,0,Carte
+2026-02-17,Écran,Tanger,1950.01,3,0.15,Virement
+2026-05-27,Imprimante,Rabat,1526.19,6,0.05,Chèque
+2026-06-28,Disque SSD,Tanger,892.08,1,0,Chèque
+2026-10-12,IMPRIMANTE ,Marrakech,1665.34,8,0.15,Chèque
+2026-11-14,Souris,RABAT ,173.81,8,0.15,Virement
+2026-07-31,Disque SSD,Rabat,833.56,3,0.15,Virement
+2026-05-24,Tablette,CASABLANCA ,,8,0.05,Chèque
+2026-05-09,Clavier,Fès,319.25,3,0.15,Chèque
+2026-03-04,Webcam,Rabat,461.09,7,0,Espèces
+2026-06-24,Imprimante,Casablanca,1580.44,5,0,Carte
+2026-02-09,Webcam,Rabat,460.14,4,0.05,Chèque
+2026-08-23,Smartphone,Fès,5279.98,4,0.15,Chèque
+2026-10-09,Tablette,Rabat,3339.81,7,0.1,Virement
+2026-01-18,Disque SSD,Marrakech,787.42,7,0.05,Virement
+2026-08-05,Imprimante,Fès,1710.76,5,0.15,Virement
+2026-06-05, écran,fès ,2027.84,8,0,Espèces
+2026-11-21,Imprimante,Rabat,1538.35,4,0.05,Chèque
+2026-05-01, casque,Tanger,420.26,8,0.05,Virement
+2026-02-01,Imprimante,Tanger,1582.35,7,0.1,
+2026-02-07,Souris,Tanger,193.41,5,0.1,Carte
+2026-03-14,Écran,rabat ,1948.87,4,0,Chèque
+2026-02-04,Webcam,Rabat,511.81,5,0,Carte
+2026-03-19,CASQUE ,RABAT ,381.61,8,0.1,Chèque
+2026-05-20, imprimante,Casablanca,1630.98,2,0,Espèces
+2026-04-04,CASQUE ,Rabat,369.33,5,0.15,Carte
+2026-01-15,Écran,Casablanca,1972.66,4,0,Virement
+2026-12-03,Écran,Fès,2101.8,1,0.15,Espèces
+2026-08-05,Imprimante,Tanger,1570.2,3,0,Virement
+2026-10-23,Écran,Marrakech,2025.72,8,0,Chèque
+2026-12-07,Écran,Marrakech,2016.81,2,0.1,Carte
+2026-09-11,Laptop,Casablanca,7969.97,7,0.15,Espèces
+2026-12-19,Écran,Marrakech,2266.7,5,0.15,Carte
+2026-11-14,Souris,RABAT ,173.81,8,0.15,Virement
+2026-07-01,Smartphone,Fès,5353.3,2,0.15,Carte
+2026-03-11,Souris,Rabat,168.07,8,0,Espèces
+2026-11-22,Souris,Fès,193.63,7,0,Virement
+2026-11-04,WEBCAM ,Fès,536.65,7,0,Carte
+2026-01-21,Webcam,Marrakech,465.68,1,0,Carte
+2026-06-01,Clavier,Tanger,338.32,6,0.1,Chèque
+2026-10-07,Clavier,Marrakech,331.57,8,0,Chèque
+2026-12-04, écran,Casablanca,2113.24,6,0,Carte
+2026-11-29,Smartphone,Fès,5015.8,2,0.05,Virement
+2026-05-04,Webcam,Casablanca,463.67,4,0.05,Carte
+2026-11-21,Imprimante,Rabat,1538.35,4,0.05,Chèque
+2026-07-26,Webcam, marrakech,,6,0,Virement
+2026-02-28,Écran,Marrakech,2098.11,4,0,Carte
+2026-02-25,CASQUE ,Marrakech,381.85,8,0.05,Virement
+2026-09-21,Tablette,Casablanca,3225.22,2,0,Espèces
+2026-04-19,Disque SSD,Tanger,831.2,8,0.1,Carte
+2026-03-30,Disque SSD,Fès,848.05,4,0.1,Carte
+2026-10-29,Disque SSD,TANGER ,909.74,2,0.05,Espèces
+2026-03-15,Webcam,Marrakech,505.15,1,0,Chèque
+2026-08-26,Smartphone,Casablanca,4804.32,4,0.1,Carte
+2026-08-01,CLAVIER ,Casablanca,320.85,4,0,Espèces
+2026-02-21,Imprimante,Marrakech,1637.35,8,0.1,Carte
+2026-07-21,Souris,Fès,186.58,6,0.1,Carte
+2026-06-05,Clavier,MARRAKECH ,320.36,7,0.05,Chèque
+2026-08-31,Laptop, fès,,8,0,Espèces
